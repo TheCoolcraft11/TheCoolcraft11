@@ -27,8 +27,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheCoolcraft11&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoolcraft11&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thecoolcraft11/thecoolcraft11/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thecoolcraft11/thecoolcraft11/output/github-snake.svg" />
