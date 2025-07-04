@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TheCoolcraft11</h1>
+<h1 align="center">Hi 👋, I'm Max / TheCoolcraft11</h1>
 <br><br>
 
 # 💻 Tech Stack:
@@ -35,10 +35,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/thecoolcraft11/thecoolcraft11/output/github-snake.svg" />
 </picture>
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=TheCoolcraft11&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
-
 ## 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/1063115747007660192) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@its_MaxGHG) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/TheCoolcraft11) <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecoolcraft11&label=Profile%20views&color=008fd6&style=flat" alt="thecoolcraft11" /> </p>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1063115747007660192)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecoolcraft11&label=Profile%20views&color=008fd6&style=flat" alt="thecoolcraft11" /> </p>
