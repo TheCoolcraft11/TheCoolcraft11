@@ -38,4 +38,4 @@
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1063115747007660192)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecoolcraft11&label=Profile%20views&color=008fd6&style=flat" alt="thecoolcraft11" /> </p>
+<p align="left">
