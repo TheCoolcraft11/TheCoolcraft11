@@ -35,7 +35,5 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/thecoolcraft11/thecoolcraft11/output/github-snake.svg" />
 </picture>
 
-## 🌐 Socials:
-
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1063115747007660192)
 <p align="left">
