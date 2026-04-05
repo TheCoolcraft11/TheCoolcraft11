@@ -29,9 +29,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=TheCoolcraft11&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TheCoolcraft11&theme=transparent)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoolcraft11&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheCoolcraft11&theme=tokyonight&background=1A1B27&border=70A5FD&stroke=70A5FD&ring=70A5FD&fire=70A5FD&currStreakNum=BF91F3&sideNums=70A5FD&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=38BDAE)<br/>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=TheCoolcraft11&theme=tokyonight)<br/>
+![Top Languages](https://ghstats.dev/api/langs?username=TheCoolcraft11&theme=tokyonight)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thecoolcraft11/thecoolcraft11/output/github-snake-dark.svg" />
@@ -44,3 +44,4 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1063115747007660192)
 <p align="left">
+
