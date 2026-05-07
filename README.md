@@ -18,7 +18,7 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheCoolcraft11&theme=tokyonight&background=1A1B27&border=70A5FD&stroke=70A5FD&ring=70A5FD&fire=70A5FD&currStreakNum=BF91F3&sideNums=70A5FD&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=38BDAE)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=TheCoolcraft11&theme=tokyonight&background=1A1B27&border=70A5FD&stroke=70A5FD&ring=70A5FD&fire=70A5FD&currStreakNum=BF91F3&sideNums=70A5FD&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=38BDAE)<br/>
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=TheCoolcraft11&theme=tokyonight)<br/>
 ![Top Languages](https://ghstats.dev/api/langs?username=TheCoolcraft11&theme=tokyonight)
 
